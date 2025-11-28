@@ -6,7 +6,9 @@
 
 3) Click START and wait softwere to crack some wallets.
 
-![Image alt](https://github.com/Rolandfinde/Forgotten-BTC/blob/main/Cracker.jpg)
+![Image alt](https://github.com/Rolandfinde/Forgotten-BTC/blob/main/cracker.gif)
+
+![Image alt](https://github.com/Rolandfinde/Forgotten-BTC/blob/main/cracker2.gif)
 
 
 
