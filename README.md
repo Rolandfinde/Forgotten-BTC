@@ -1,6 +1,6 @@
 # Installation
 ---
-1) The password for the archive is - 2025
+1) The password for the archive is - 2026
 
 2) Open Cracker.exe
 
